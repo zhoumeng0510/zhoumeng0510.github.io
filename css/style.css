@@ -13,7 +13,7 @@ a:hover {
     z-index: 99
 }
 
-.clearfix:after,
+.clear fix:after,
 .page_1 .page_bg:before {
     content: ""
 }
